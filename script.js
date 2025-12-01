@@ -60,7 +60,7 @@ let data = [
   },
 
   {
-    video: "./video/7.mp4",
+    video: "./video/8.mp4",
     logoimage: "https://images.unsplash.com/photo-1763990840358-a54e99a19b5d?w=600&auto=format&fit=crop&q=60",
     username: "Arjun-Mehra",
     description: "Gym grind 💪🔥",
